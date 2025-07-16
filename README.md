@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/alex-ee/alex-ee/main/assets/header.png" alt="Header" width="100%">
 </p>
 
-### 👋 Hi there, I'm **Alex**  
+### 👋 Hi there, I'm **Kostas**  
 
 🚀 Final-year Electrical & Computer Engineering student focused on embedded systems, power electronics and signal processing.  
 💡 I love turning schematics into working prototypes and writing firmware that makes hardware sing.
